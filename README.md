@@ -1,6 +1,6 @@
 # E-Commerce API
 
-A web-based API built using C# and ASP.NET, designed to provide core functionalities for an e-commerce platform. The system allows users to manage their accounts, browse products, place orders, and handle authentication and authorization.
+A web-based API built using C# and ASP.NET, designed to provide core functionalities for an e-commerce platform. The system allows users to manage their accounts, browse products, place orders.
 
 ## Features
 
