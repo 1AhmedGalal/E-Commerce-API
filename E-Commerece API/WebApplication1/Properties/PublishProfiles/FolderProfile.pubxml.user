@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\api2</_PublishTargetUrl>
+    <History>True|2025-03-09T22:38:25.1596310Z;False|2025-03-10T00:37:57.9549964+02:00;False|2025-03-10T00:37:42.1731845+02:00;True|2025-03-10T00:32:40.4716350+02:00;True|2025-03-10T00:24:37.5754381+02:00;True|2025-03-09T23:45:02.1051633+02:00;True|2025-03-09T23:42:52.5595258+02:00;True|2025-03-09T23:39:23.9743326+02:00;True|2025-03-09T23:37:24.8100649+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
